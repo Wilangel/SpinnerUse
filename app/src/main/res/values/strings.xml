@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpinnerUse</string>
+    <string name="et1">Inserta el primer numero</string>
+    <string name="et2">Inserta el Segundo Numero</string>
+    <string name="Button">Calcular</string>
+    <string name="tv1">Resultado</string>
+</resources>
